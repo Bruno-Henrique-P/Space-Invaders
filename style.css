@@ -1,0 +1,30 @@
+.tabu{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div{
+    width: 20px;
+    height: 20px;
+    background-color: aqua;
+}
+
+.ship{
+    background-color: black;
+}
+
+.invaders{
+    background-color: blue;
+    border-radius: 100px;
+}
+
+.shots{
+    background-color: orange;
+}
+
+.hit{
+    background-color: red;
+}
